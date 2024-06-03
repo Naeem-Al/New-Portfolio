@@ -601,10 +601,6 @@ video {
   margin-right: auto;
 }
 
-.ml-14 {
-  margin-left: 3.5rem;
-}
-
 .ml-2 {
   margin-left: 0.5rem;
 }
@@ -617,6 +613,10 @@ video {
   margin-left: 2rem;
 }
 
+.ml-9 {
+  margin-left: 2.25rem;
+}
+
 .mr-40 {
   margin-right: 10rem;
 }
@@ -627,14 +627,6 @@ video {
 
 .mt-6 {
   margin-top: 1.5rem;
-}
-
-.ml-9 {
-  margin-left: 2.25rem;
-}
-
-.ml-10 {
-  margin-left: 2.5rem;
 }
 
 .block {
